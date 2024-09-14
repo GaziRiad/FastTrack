@@ -28,7 +28,7 @@ function page({ searchParams }) {
       <Process />
       <Testimonials />
       <Licensing />
-      <BlogSection filter={filter} />
+      {/* <BlogSection filter={filter} /> */}
       <FAQ />
       <Contact />
     </div>
